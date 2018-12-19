@@ -1,0 +1,19 @@
+{
+  "name": "drink-it",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@bitbucket.org/Danjik/drink-it.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "homepage": "https://bitbucket.org/Danjik/drink-it#readme",
+  "dependencies": {
+    "magic-rows": "^1.0.1"
+  }
+}

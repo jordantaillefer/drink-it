@@ -1,0 +1,11 @@
+[
+      {
+        "category": "cul-sec",
+        "pos": "Donnes un cul-sec à %player%.",
+        "neg": "Bois un cul-sec."
+      }, {
+        "category": "cul-sec",
+        "pos": "Tu as de la chance ! Passe ton tour...",
+        "neg": "Pas de chance ! Cul-sec !"
+      }
+]

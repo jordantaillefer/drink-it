@@ -1,0 +1,19 @@
+[
+      {
+        category: 'cul-sec',
+        pos: 'Donnes un cul-sec à %player%.',
+        neg: 'Bois un cul-sec.'
+      }, {
+        category: 'boire',
+        pos: 'Demande à %player% de boire 3 gorgées de ton verre.',
+        neg: 'Bois 3 gorgées du verre de %player%.'
+      }, {
+        category: 'boire',
+        pos: 'Rajoute dans le verre de %player%, l'alcool de ton choix',
+        neg: '%player rajoute l'alcool de son choix dans ton verre.'
+      }, {
+        category: 'cul-sec',
+        pos: 'Tu as de la chance ! Passe ton tour..',
+        neg: 'Pas de chance ! Cul-sec !'
+      }
+]
